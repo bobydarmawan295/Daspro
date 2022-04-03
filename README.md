@@ -1,2 +1,2 @@
 # Daspro
-Kumpulan tugas daspro pada semester 1
+Kumpulan tugas daspro semester 1
